@@ -1,6 +1,7 @@
 {
 Hi
 
-This is file2 for practise
+This is file2 for practice
 
+This is file2 changes
 }
