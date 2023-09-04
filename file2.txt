@@ -1,0 +1,6 @@
+{
+Hi
+
+This is file2 for practise
+
+}
